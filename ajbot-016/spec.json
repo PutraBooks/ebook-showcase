@@ -1,0 +1,25 @@
+{
+  "slug": "ajbot-016",
+  "title": "Building the Microcontrollers of Tomorrow",
+  "subtitle": "Embedded Systems, IoT, and the Silicon That Runs Everything",
+  "author": "Aiman JoeHanz",
+  "series": "Building of Tomorrow",
+  "volume": 16,
+  "description": "Microcontrollers are the invisible workhorses of the modern world. They are in your phone, your car, your refrigerator, your toothbrush, and increasingly in devices that didn't have electronics a decade ago. In 2026, 40 billion microcontrollers ship annually - six for every person on Earth. They are the silicon substrate of the Internet of Things, the brains behind smart homes and smart cities, and the foundation upon which the AI edge revolution is being built. This volume explains, in plain language, how tiny computers run everything around us - and where they are heading next.",
+  "excerpt_heading": "From the Introduction",
+  "excerpt": [
+    "Microcontrollers are the invisible workhorses of the modern world. They are in your phone, your car, your refrigerator, your toothbrush, and increasingly in devices that didn't have electronics a decade ago. In 2026, 40 billion microcontrollers ship annually — six for every person on Earth. They are the silicon substrate of the Internet of Things, the brains behind smart homes and smart cities, and the foundation upon which the AI edge revolution is being built.",
+    "This book examines the current state of microcontroller technology — from 8-bit relics to 32-bit powerhouses with AI acceleration — and projects where the field is heading through 2036. It covers ten key domains: architecture evolution, RISC-V disruption, AI at the edge, security, low-power design, connectivity, development tools, real-time systems, IoT applications, and the future of embedded silicon.",
+    "The research draws on technical specifications from ARM, RISC-V International, Espressif, STMicroelectronics, and other silicon vendors, combined with hands-on experience with development boards and real-world embedded projects. Predictions are grounded in semiconductor roadmaps and the physical limits of silicon scaling."
+  ],
+  "facts": {
+    "Format": "PDF",
+    "Length": "35,000 words, 10 chapters",
+    "Series": "Building of Tomorrow, Vol. 16",
+    "Category": "Nonfiction - Technology / Education",
+    "Price": "S$1"
+  },
+  "buy_links": {
+    "Carousell": "https://www.carousell.sg/p/building-the-microcontrollers-of-tomorrow-ebook-pdf-1465660466/"
+  }
+}
