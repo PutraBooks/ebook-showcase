@@ -25,3 +25,16 @@ QR code payload for a book is simply its page URL.
 
 - Never add cross-links between book pages.
 - Keep the root landing catalogue-free.
+
+
+## Family-sweep audit (2026-10-21): 1 fix
+
+- ajbit-063 cover was the pre-2026-10-20 rejected "minimal-diagram" generation
+  (page built 2026-10-17, before the cover regeneration campaign). Replaced with
+  the shipped composed cover (byte-size 1667x2500, pixel-identical to the AJBIT
+  shipped EPUB cover home); page regenerated with tools/build_page.py.
+- ajbot-016 verified clean: cover pixel-identical to the shipped AJBOT cover.
+- Reproducibility: both pages regenerate identically from spec.json + cover.png.
+- Symlinks: 0. Secret-pattern scan: clean.
+- Standing rule: build a showcase page only AFTER its book's cover clears the
+  current generation, and re-copy cover.png when a book's cover is regenerated.
